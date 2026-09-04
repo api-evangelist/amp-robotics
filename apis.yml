@@ -21,6 +21,8 @@ accessModel:
   source: []
   generated: '2026-07-22'
   method: derived
+  source:
+  - {url: 'https://amprobotics.com', status: 302, note: 'declared website redirects to https://ampsortation.com/ — a different registrable domain (amprobotics.com -> ampsortation.com), possible rename or acquisition (probed 2026-09-03, roadmap#169)'}
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/amp-robotics.png
 name: AMP Robotics
 description: 'AMP Robotics (operating as AMP Sortation) is an artificial-intelligence
