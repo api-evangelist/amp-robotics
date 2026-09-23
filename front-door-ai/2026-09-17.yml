@@ -1,0 +1,29 @@
+# Front Door AI Index — amp-robotics — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: amp-robotics
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: amprobotics.com
+  final_host: ampsortation.com
+  ownership: own
+  owner: amp-robotics
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 5
+  host_score: 5
+  density: 23.26
+  words: 215
+  tiers:
+    agentic: 0
+    core: 5
+    model: 0
+  ambiguous: 6
+  top_terms:
+    AI: 4
+    smart: 4
+    artificial intelligence: 1
+    automation: 1
+    intelligence: 1
