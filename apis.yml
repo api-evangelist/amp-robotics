@@ -51,8 +51,8 @@ modified: '2026-07-17'
 tags:
 - Company
 - Artificial Intelligence
-- Machine-Learning
-- Computer-Vision
+- Machine Learning
+- Computer Vision
 - Robotics
 - Waste Management
 - Recycling
@@ -68,6 +68,8 @@ tags_raw:
 - Recycling
 - Sustainability
 - Automation
+- Machine-Learning
+- Computer-Vision
 apis: []
 maintainers:
 - FN: Kin Lane
